@@ -1,2 +1,2 @@
-# module-2-coding-assignment
+# coursera web development course
 coding assignment
